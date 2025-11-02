@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Telugu News Summarizer",
+  "description": "An app that fetches articles from Telugu news RSS feeds from the last hour, summarizes them using AI, and displays the summaries with links to the original articles.",
+  "requestFramePermissions": []
+}
